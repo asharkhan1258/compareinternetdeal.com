@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer-grid">
         <div>
-          <div className="brand footer-brand"><span className="brand-mark">CIP</span><span>{site.brandName}</span></div>
+          <div className="brand footer-brand"><span className="brand-mark">CID</span><span>{site.brandName}</span></div>
           <p className="muted">Operated by {site.legalName}.</p>
           <p className="muted">{site.address}</p>
         </div>
